@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KFTAN
+- 👋 Hi, I’m @KFTAN (Kevin Francis Tan)
 - 👀 I’m interested in Data(Science, Research, Visualization, and Engineering) Software Development, Machine Learning and AI.
 - 🌱 I’m currently learning Looker, JavaScript, and LookML.
 - 📫 How to reach me
